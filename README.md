@@ -41,10 +41,8 @@ and Launch date of any order which has a launch date listed.
 
 *Code Sources*
 
-The project started by copying this person's code for how to:
-
 https://officetricks.com/different-methods-to-import-data-from-external-excel-file/
-
-And the rest was put together using this tutorial:
-
 http://www.excel-easy.com
+http://excelmacromastery.com/excel-vba-find/
+https://www.techonthenet.com/excel/formulas/strcomp.php
+https://msdn.microsoft.com/en-us/library/wts33hb3.aspx
