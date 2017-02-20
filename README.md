@@ -21,23 +21,20 @@ originally designed for this purpose, is the most reliable source of updates reg
 is also the most reliable list of launch dates that only includes shoes we intend to retail, as the launch calendars
 available from Nike/Jordan includes all available shoes, of which we only retail a fraction.
 
+*Launch Dates*
+
+Jordan stopped supplying us wth launch dates on their OTR. To compensate, I downloaded the launch date for current and next season and added them to the process.
+
 *To Run the Script*
 
 1) Download the Nike OTR, Jordan OTR, and the macro-enabled workbook.
 
-2) Open the macro-enabled workbook and fill out the top three fields. You must end the "Directory" field with a backslash
+2) Open the macro-enabled workbook and fill out the fields. You must end the "Directory" field with a backslash
 or the script won't be able to find your files. The "Today's Date" field will self-populate.
 
-3) Press any button to run the associated report.
+3) Ensure that sheet 2 is blank except for its header.
 
-*Output*
-
-Cancel Dates: This report prints out on Sheet2. The output is a list of Sales Order numbers. Orders highlighted in Blue 
-are expected to arrive past the Cancel Date. Orders highlighted in pink are expected to arrive less than a week before 
-the launch date. If an order qualifies for both, it will appear twice, once in blue and once in pink.
-
-Launch: This report prints out to Sheet3. The output is simply our internal Purchase Order number, the Material number, 
-and Launch date of any order which has a launch date listed.
+4) Press any button to run the associated report.
 
 *Code Sources*
 
