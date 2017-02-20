@@ -27,10 +27,10 @@ Jordan stopped supplying us wth launch dates on their OTR. To compensate, I down
 
 *To Run the Script*
 
-1) Download the Nike OTR, Jordan OTR, and the macro-enabled workbook.
+1) Download the Nike OTR, Jordan OTR, the two launch calendars, and the macro-enabled workbook.
 
 2) Open the macro-enabled workbook and fill out the fields. You must end the "Directory" field with a backslash
-or the script won't be able to find your files. The "Today's Date" field will self-populate.
+or the script won't be able to find your files. Play with the "Today's Date" field to see how it affects the output as you wish.
 
 3) Ensure that sheet 2 is blank except for its header.
 
